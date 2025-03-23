@@ -20,13 +20,13 @@ The inspiration behind EnergX stems from the need to reduce digital fatigue and 
 ## Impact of the Solution (Include technical details if applicable)
 - The platform enables users to record daily moods, visualize patterns over time with interactive charts, and log activities that influence their mood.
 - Integrated Supabase for data storage and authentication.
-- Dynamic React components with Expo and Recharts for smooth mood trend visualization.
+- Dynamic React components with Recharts for smooth mood trend visualization.
 - Used custom lavender gradient color schemes for an elegant, calming UI.
 - Focuses on HIPAA-compliant design principles for data privacy.
 
 ## Tech Stack Used
 - **Frontend:** React, TypeScript, Tailwind CSS
-- **Backend:** Supabase (Authentication, Database, and Storage)
+- **Backend:** Node, Supabase (Authentication, Database, and Storage)
 - **Charting:** Recharts for visual mood analytics
 - **AI:** HuggingFace APIs - Speech to Text Conversion, Energy Boosting Activites Ranking
 
