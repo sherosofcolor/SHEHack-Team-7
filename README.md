@@ -33,7 +33,7 @@ The inspiration behind EnergX stems from the need to reduce digital fatigue and 
 ## Submission Links
 
 ### Video Demo
-[https://drive.google.com/file/d/your-video-demo-link](https://drive.google.com/file/d/your-video-demo-link)
+[Google Drive - Demo Video](https://drive.google.com/file/d/your-video-demo-link)](https://drive.google.com/drive/folders/1kHy-Wdcf0wly3DxJ5CpspV16h26Arn3D?usp=sharing)
 
 ### GitHub Repository
 [https://github.com/shashidhara-ruchika/EnergX](https://github.com/shashidhara-ruchika/EnergX)
